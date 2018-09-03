@@ -1,0 +1,5 @@
+function myname(){
+
+    alert("sana");
+}
+    
